@@ -3,7 +3,7 @@ from numpy.core.numeric import True_
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.svm import SVC
+#from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
